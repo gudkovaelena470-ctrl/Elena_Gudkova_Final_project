@@ -1,26 +1,7 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyd
-*.pyo
-*.pdb
-*.egg-info/
-dist/
-build/
+.pytest_cache
+.venv
+.vscode
+__pycache__
 
-# Virtual environments
-.venv/
-venv/
-env/
 
-# IDE
-.vscode/
-.idea/
 
-# Pytest / coverage
-.pytest_cache/
-.coverage
-htmlcov/
-
-# Logs
-*.log
